@@ -1,6 +1,6 @@
 # Localization of eeg electrodes using a system of cameras
 
-This is a README from Gitlab repository https://gitlab.fel.cvut.cz/olysarad/localization-of-eeg-electrodes-using-a-system-of-cameras accessible with CTU account. In this version the Dataset and trained neural network are missing sue to their size. If you want to run this code, use the Gitlab repository mentioned above.
+This is a README from Gitlab repository https://gitlab.fel.cvut.cz/olysarad/localization-of-eeg-electrodes-using-a-system-of-cameras accessible with CTU account. In this version the Dataset and trained neural network are missing due to their size. If you want to run this code, use the Gitlab repository mentioned above.
 
 Aim of this repository is automatic localization of EEG electrodes and creation of their 3D model using a system of eleven cameras. Under application use is short description of each directory i.e. parts of final algorithm.  
 
